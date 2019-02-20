@@ -4,5 +4,9 @@ def reverse_each_word(str)
     x.reverse!
   end
   arr.join(" ")
+  
+  ## using collect 
+  
+  arr2
 end
 
