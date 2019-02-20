@@ -7,6 +7,6 @@ def reverse_each_word(str)
   
   ## using collect 
   
-  arr2
+  arr2.collect do
 end
 
